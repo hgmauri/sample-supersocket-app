@@ -1,6 +1,14 @@
 # Socket.App
-A socket connection console application with using the SuperSocket package. 
+
+A socket connection console application .NET 4.5.1 with using the SuperSocket package. 
+
+This example was created the class "CustomStringParser" to get the full message that was sent, without using the "key".
 
 Step to use: 
-- Conecater the socket using TELNET 
+
+- Run the application
+- Open other command prompt and run "telnet 127.0.0.1 3333"
 - Send a text and press the ENTER
+- Send text and press ENTER
+- Will return an answer and the connection is closed
+- Check the "Logs" folder in the "bin" folder, for connection check and send messages via TELNET
