@@ -1,6 +1,6 @@
 # Socket.App
 
-A socket connection console application .NET 4.5.1 with using the SuperSocket package. 
+A socket connection console application .NET 4.5.1 with using the SuperSocket (1.6.6) package. 
 
 This example was created the class "CustomStringParser" to get the full message that was sent, without using the "key".
 
