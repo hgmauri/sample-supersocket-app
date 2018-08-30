@@ -8,20 +8,6 @@ using SuperSocket.SocketEngine;
 
 namespace Socket.ConsoleApp
 {
-    /// <summary>
-    ///     ===================================================================
-    ///     Class description
-    ///     ===================================================================
-    ///     Class ServicoIntegracaoVendas
-    ///     ===================================================================
-    ///     Change History
-    ///     ===================================================================
-    ///     Date        Author          Description of Changes
-    ///     ----------  --------------- ---------------------------------------
-    ///     31/03/2016  Henrique Mauri  Original coding
-    ///     ===================================================================
-    /// </summary>
-
     public class Program : ServiceBase
     {
         private static MyAppServer appServer;
