@@ -7,7 +7,7 @@ This example was created the class "CustomStringParser" to get the full message 
 Step to use: 
 
 - Run the application
-- Open other command prompt and run "telnet 127.0.0.1 3333"
+- Open another command prompt and run "telnet 127.0.0.1 3333"
 - Send a text and press the ENTER
 - Send text and press ENTER
 - Will return an answer and the connection is closed
