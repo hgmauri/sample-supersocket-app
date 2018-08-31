@@ -36,6 +36,7 @@ namespace Socket.ConsoleApp
 
             appServer.Start();
 
+            Console.WriteLine("...open another command prompt and run: telnet 127.0.0.1 3333");
             Console.ReadKey();
         }
 
