@@ -11,4 +11,4 @@ Step to use:
 - Send a text and press the ENTER
 - Send text and press ENTER
 - Will return an answer and the connection is closed
-- Check the "Logs" folder in the "bin" folder, for connection check and send messages via TELNET
+- Check the "Logs" folder in the "bin/Logs" folder, for connection check and send messages via TELNET
